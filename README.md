@@ -1,1 +1,1 @@
-# 写真_pic_jog
+# pic_jog
